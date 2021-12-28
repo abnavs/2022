@@ -32,9 +32,9 @@ Lists & Dictionaries **[Due by Sun. Jan 9]**
 **A parting note:**
 
 > While these are Python exercises, **this isn't a Python class**. We will encounter various technologies in the course, but this tutorial should help you get in the mindset of learning code. It will help you:
-
+>
 > 1. Build the muscle memory of writing code (not misspelling commands, closing brackets you open, etc...)
-2. Become familiar as well as some basic concepts (variables, lists, strings, logic). It will be easier to learn and use these concepts in class if you've encountered them before. 
-3. Help you learn to think through coding problems and teach you some of the skills you will need to debug
+>2. Become familiar as well as some basic concepts (variables, lists, strings, logic). It will be easier to learn and use these concepts in class if you've encountered them before. 
+>3. Help you learn to think through coding problems and teach you some of the skills you will need to debug
 
-Looking forward to seeing you in class! If you have any questions or concerns, you can find me in the class Slack the week before class starts.
+If you have any questions or concerns, you can find me in the class Slack the week before class starts.
