@@ -18,8 +18,6 @@ Welcome to Programming and Data for Policymakers! I'm excited that you've chosen
 
 Knowing programming is not a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. I will not be assuming prior knowledge for the class, so don't worry if its all new to you. **If you're new to coding, I'd highly encourage you to complete the introduction (Chapters 1-8 and 11-14) of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/) before the class starts.**  
 
-If you're feeling good and have the time, feel free to keep going! Completing this ahead of time will allow you to stay focused on the core content of the class during the J-term.
-
 Introduction **[Due by Tues Jan 4]**
 
 - Chapters 1-8 and 11-14
@@ -28,6 +26,7 @@ Lists & Dictionaries **[Due by Sun. Jan 9]**
 
 - Chapters 16-22 and 24-27
 
+While only the introduction is due on the second day of class, if you're feeling good, feel free to keep going! Completing this assignment ahead of time will allow you to stay focused on the core content of the class during the J-term.
 
 ### A note about the assignment
 > While the pre-work is a Python tutorial, **this isn't a Python class**. We will encounter various technologies in the course, but this tutorial should help you get in the mindset of learning code. It will help you:
