@@ -4,7 +4,7 @@ Welcome to Programming and Data for Policymakers! I'm excited that you've chosen
 
 1. Fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQLScyOF23yyI5G-JsZCRdy0nruKnXFmZzxzOlmXqAj2RS7zWiiw/viewform?usp=sf_link). 
 2. Join the class [Slack](https://join.slack.com/t/code4policy/signup) chat.
-3. Complete Chapters 1-8 and 11-14 of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/).
+3. Complete Chapters 1-8 and 11-14 of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/). [Due Jan 4]
 
 ## Course Materials
 
