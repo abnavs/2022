@@ -8,7 +8,7 @@ Welcome to Programming and Data for Policymakers! I'm excited that you've chosen
 
 ## Course Materials
 
-* A personal computer (Mac, Linux or Windows 10+)
+* A personal computer (Mac, Linux or Windows 10+) that you have permission to install software on
 * [Elements of Scrum](https://www.amazon.com/gp/product/B004O0U74Q/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1) by Chris Sims and Hillary Louise Johnson
 * [SCRUM: A Breathtaking Brief and Agile Introduction](https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction/dp/193796504X) by Chris Sims and Hillary Louise Johnson
 
