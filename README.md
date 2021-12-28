@@ -14,7 +14,7 @@ Logistics
 		* Class will be held at 11am on Monday Jan 3.
 	* Section B: 4pm - 8pm Eastern 
 * Syllabus: [./syllabus.pdf](./syllabus.pdf)
-* Slack: [https://code4policy2022.slack.com](https://code4policy2022.slack.com)
+* Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
 
 # Day 0
 Like any good programmer, we start our counting with 0...
